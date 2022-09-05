@@ -5,7 +5,7 @@ As the group grows, these mechanisms may be adjusted.
 
 As the Developer experience git repository is the public facing aspect of the group, merge's should happen during or immediately after group meetings and reflect agreements made there. 
 
-Currently the meeting recurrs every week on Tuesday at 16:00 UTC - if there are 4 or more developer-participants at that group and the chair, and there is consensus among attendees that a proposal or pull request status should be adjusted, then the status can be updated on git.
+Currently the meeting recurrs every week on Tuesday at 16:00 UTC - if there are 4 or more developer-participants at that group and the chair, and there is 60% or greater approval among attendees that a proposal or pull request status should be adjusted, then the status can be updated on git. However in general the group will seek to work from consensus.
 
 Proposals can have the following statuses
 - Discussion - Identifies an issue which may have no clear solution - but can be identified as an area of research for the working group. (these can take the form of github issues with labels for priority)

@@ -60,7 +60,6 @@ Chairpersons:
 
 4.5 New members 
 
-TODO: provide links, start non-IOG discord?
 
 This is a community-led initiative so we encourage members of the Cardano community who want to improve the overall developer experience across the cardano ecosystem to join the Developer Experience Working Group start by joining the Discord Channel 
 

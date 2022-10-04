@@ -67,7 +67,7 @@ This is a community-led initiative so we encourage members of the Cardano commun
 1. Join our discord server (use this link), and verify.
 https://discord.gg/inputoutput 
 2. Submit your discord handle in this single-field form
-????
+https://input-output.typeform.com/to/jKGyuidt?typeform-source=mail.google.com
 3. Access will be granted within 24hrs.
 
 5. Communications

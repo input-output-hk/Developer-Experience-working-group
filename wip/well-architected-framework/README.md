@@ -106,7 +106,10 @@ Each discipline describes relevant _principles_ and _best practices_.
 #### Reference Implementations
 
 ### Performance
-2-3 sentence introduction highlighting some key decisions dev teams will need to make - Jingles
+To determine the responsiveness, speed, scalability, and stability characteristics of the application under stress tests and aligning to production requirements. End-to-end performance throughput of any application should support anticipated peak production load, including network load. Tests should detect concurrency issues and functionality errors when under load.
+
+These tests should be performed without overloading the Cardano blockchain. Developers should in their best knowledge, determine how many users the application can handle before performance is compromised. Developers should determine failure plans before causing failures and errors in addition to congestion of the network.
+
 
 #### Principles
 - Load Testing
@@ -140,14 +143,14 @@ Each discipline describes relevant _principles_ and _best practices_.
 
 
 ### Scalability
-2-3 sentence introduction highlighting some key decisions dev teams will need to make - James
+Project architectures should be designed with scaling in mind, even when starting small. Development teams must be aware of the design challenges inherent in scaling applications on Cardano. This framework provides an overview of potential tradeoffs between Scalability and other disciplines, so that development teams can build for present and future use.
 
 #### Principles
 #### Best Practices
 #### Reference Implementations
 
 ### User Experience UX/UI
-2-3 sentence introduction highlighting some key decisions dev teams will need to make - Abdelkrim
+User Experience covers the component architecture and UI Elements of a dApp, that ensure the smoothest experience possible. Whether it’s reading data of the blockchain, or submitting new data. The experience shouldn’t be any different from interacting with a regular WebApp.
 
 #### Principles
 #### Best Practices

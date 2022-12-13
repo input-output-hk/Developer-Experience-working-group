@@ -22,19 +22,35 @@ Having a "Cardano Well-Architected Framework" in a similar fashion to the mentio
 - [ ] Gather feedback
 - [ ] Publish v1
 
-> KOL: A key opinion leader (KOL) is an individual who is widely recognized as an authority or expert in a specific field or industry. 
+> KOL: A key opinion leader (KOL) is an individual who is widely recognized as an authority or expert in a specific field or industry.
+
+## How to contribute
+- By submitting a PR with changes to the scope (table of contents)
+- By creating a new .md file that includes relevant information on any of the specific topics (it can be references to outside material or original content)
+- By proposing candidate KOLs that would pontentially be able to fullfil the content for any of the topics.
 
 ## Scope
 
-The following is a _live_ list of topics that the Well-Architected framework for Cardano should include.
+The following is a _live_ list of topics that the Well-Architected framework for Cardano should include. It's organized by broad disciplines that are involved in the process of building a dApp.
 
-It's organized by broad disciplines that are involved in the process of building a dApp. Each discipline describe relevant _principles_ and _best practices_.
+1. Reliability
+2. Security
+3. Cost Optimization
+4. Performance
+5. Decentralisation
+6. Scalability
+7. UX/UI
+
+Each discipline describes relevant _principles_ and _best practices_.
 
 > **Principle**: a fundamental rule or guideline that should be followed when designing and building software applications. Principles are typically broad, general statements that provide guidance and direction for software development.
 
 > **Best Practice**: a specific approach or technique that has been shown to be effective in solving a particular problem or achieving a specific goal in software development. Best practices are typically based on the experiences and expertise of experts in the field, and they provide guidance on how to design and implement software in a way that is maintainable, scalable, and extensible.
 
+> **Reference Implementations**: a set of examples to illustrate Principles and Best Practices. Reference Implementations may include live projects, specific architectures, or topologies for decentralised applications.
+
 ### Reliability
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - Santiago
 
 #### Principles
 - Design for business requirements
@@ -50,6 +66,10 @@ It's organized by broad disciplines that are involved in the process of building
 - Rollback Handling
 - Tx Retry Policies
 - Traffic Load Balancing
+
+#### Reference Implementations
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - Santiago
+
 
 ### Security
 
@@ -67,6 +87,9 @@ It's organized by broad disciplines that are involved in the process of building
 - Node Network Topology
 - Plutus Testing Pipeline
 
+#### Reference Implementations
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - Santiago
+
 ### Cost Optimization
 
 #### Principles
@@ -80,7 +103,10 @@ It's organized by broad disciplines that are involved in the process of building
 - DB-Sync Capacity Planning
 - Dynamic Scaling
 
+#### Reference Implementations
+
 ### Performance
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - Jingles
 
 #### Principles
 - Load Testing
@@ -93,8 +119,36 @@ It's organized by broad disciplines that are involved in the process of building
 - Tx Chaining
 - Plutus Script Optimization
 
-## How to contribute
+#### Reference Implementations
 
-- By submitting a PR with changes to the scope (table of contents)
-- By creating a new .md file that includes relevant information on any of the specific topics (it can be references to outside material or original content)
-- By proposing candidate KOLs that would pontentially be able to fullfil the content for any of the topics.
+
+### Decentralisation
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - Michele
+
+#### Principles
+- Robustness
+- Censorship Resistance
+- Open Source
+- Shared ownership
+- Independence
+
+#### Best Practices
+- Eject buttons
+- Headless Dapps
+
+#### Reference Implementations
+
+
+### Scalability
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - James
+
+#### Principles
+#### Best Practices
+#### Reference Implementations
+
+### User Experience UX/UI
+2-3 sentence introduction highlighting some key decisions dev teams will need to make - Abdelkrim
+
+#### Principles
+#### Best Practices
+#### Reference Implementations

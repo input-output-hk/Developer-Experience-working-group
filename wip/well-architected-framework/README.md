@@ -50,7 +50,9 @@ Each discipline describes relevant _principles_ and _best practices_.
 > **Reference Implementations**: a set of examples to illustrate Principles and Best Practices. Reference Implementations may include live projects, specific architectures, or topologies for decentralised applications.
 
 ### Reliability
-2-3 sentence introduction highlighting some key decisions dev teams will need to make - Santiago
+Reliability refers to the ability of a system to consistently provide access to data and services, regardless of hardware / software failures and excessive load. Reliability implies responsiveness, consistency and correctness of the data and processes of the system. The end-goal is to provide users with access to the resources they need, whenever they need them, without interruption.
+
+Development teams should be aware of how to develop Cardano applications that avoid common SPOs (single point of failure) and implement fallback mechanisms by taking into account principles such as automation and observability early on, during the design phase of their projects.
 
 #### Principles
 - Design for business requirements

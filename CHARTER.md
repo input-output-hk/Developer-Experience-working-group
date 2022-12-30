@@ -44,11 +44,12 @@ Positions and names to be agreed and confirmed in the coming sessions as the gro
 
 Chairpersons:  
 * Ben Hart
-* Manu Gunther
+* Alex TODO
+* Phillip DiSarro
 
 4.3 Chair Selection
 
-* Chairs shall be volunteers or elected by the members, with no more than four chairs serving at one time. Service shall be evaluated annually, with no maximum term. 
+* Chairs shall be volunteers or elected by the members (in the event of a contest), with no more than four chairs serving at one time. Service shall be evaluated annually, with no maximum term. 
 * The Chair/s of the working group will rotate every six months to ensure equal participation from all members of the working group.
 
 4.4 Chair Duties
@@ -64,11 +65,8 @@ Chairpersons:
 This is a community-led initiative so we encourage members of the Cardano community who want to improve the overall developer experience across the cardano ecosystem to join the Developer Experience Working Group start by joining the Discord Channel 
 
 
-1. Join our discord server (use this link), and verify.
-https://discord.gg/inputoutput 
-2. Submit your discord handle in this single-field form
-https://input-output.typeform.com/to/jKGyuidt?typeform-source=mail.google.com
-3. Access will be granted within 24hrs.
+Join our discord server (use this link), and verify to participate in the group:
+https://discord.gg/MrFSKDMRvm
 
 5. Communications
 Members of the Developer Experience Working Group are committed to a high standard of public behavior and strive to treat every person with respect.
@@ -89,10 +87,8 @@ Issues/Proposals can have the following statuses
 
 8. Success Criteria
 
-
-* # proposals defined and documented
-* # of CIPs
 * Identified issues result in change
+* TODO
 
 
 9. Funding
@@ -108,7 +104,7 @@ individual proposers may include copyright for their specific proposal.
 The Developer Experience Working Group can request feedback from and/or allow Non-Working Group Participant participation in the Developer Experience Working Group subject to each Non-Working Group Participant agreeing to the below Feedback Agreement.
 
 
-Feedback agreement
+12. Feedback agreement
 
 
 The Developer Experience Working Group wants to improve the overall developer experience across the cardano ecosystem.

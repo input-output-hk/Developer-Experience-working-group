@@ -23,5 +23,14 @@ Do you have a concern relating to developer experience working on Cardano? Check
 
 To join the Developer Working group Discord Channel:https://discord.gg/inputoutput
 
+## How do we use this github repository?
+
+This repository houses the [Charter](CHARTER.md), which defines how the group operates and makes decisions. We also have the [minutes](minutes) folder which houses text records of each Tuesday meeting, arranged by date.
+
+Most discussion topics will take the form of Github issues and pull requests.
+Issues describe a given problem facing the Cardano developer ecosystem, or a desired change to how the group is run.
+PR's propose solutions, identify individuals or organizations which can and will execute the solution. Once a solution has a clear path to execution, the proposal will be merged to the main branch of the repository.
+
+All merges require at least 1 review, merge rights are handled by the co-chairs.
 
 

@@ -61,7 +61,6 @@ Chairpersons:
 
 4.5 New members 
 
-
 This is a community-led initiative so we encourage members of the Cardano community who want to improve the overall developer experience across the cardano ecosystem to join the Developer Experience Working Group start by joining the Discord Channel 
 
 
@@ -75,7 +74,9 @@ Members of the Developer Experience Working Group are committed to a high standa
 Consensus/Voting/Approval. Each Working Group will endeavor to make all decisions by consensus. Where the Working Group cannot reach consensus with respect to a particular decision, the Developer Experience Working Group will make that decision by a supermajority vote of the Working Group Participants, as applicable.
 
 7. Process 
-The repository is designed to simplify and consolidate GitHub status tracking of work items managed by the Developer Experience Working Group. 
+
+7.1 The repository 
+The is designed to simplify and consolidate GitHub status tracking of work items managed by the Developer Experience Working Group. 
 
 The working group uses the GitHub workflow as it's primary mechanism for discussion and for decision making
 
@@ -84,6 +85,12 @@ Issues/Proposals can have the following statuses
 - Draft - Seeks to solve a Discussion issue with a concrete proposal which is technologically feasible (if applicable). This may be a place where developers wishlist features of a proposed solution. (These will take the form of a pull request)
 - Accepted - the proposal describes a sound solution to a statistically significant problem. A proposal is deemed Accepted when the working group agrees to merge a proposal into the main branch of the repository.
 - Seeking Sponsorship/Action - The working group is actively soliciting sponsors or other actors to provide the solution described. Accepted proposals will either be accepted with an active sponsor, or the group will actively seek sponsorship for unsponsored, accepted proposals. A sponsor may include a large actor in the ecosystem or a small individual developer.
+
+7.1 Scribe
+A scribe is role is to be described;
+A scribe for a meeting is assigned in the end of the previous meeting. The primary source for scribes is the chairs, if unavaliable a member of the group is selected by volunteering.
+The scribe can not be the same person in two successive meetings.
+If there is only one WG member in the meeting and there is noone to assign as a scribe for the next meeting, a question of relevance and impact is raised.
 
 8. Success Criteria
 

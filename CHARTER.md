@@ -44,7 +44,7 @@ Positions and names to be agreed and confirmed in the coming sessions as the gro
 
 Chairpersons:  
 * Ben Hart
-* Alex TODO
+* Alex Seregin
 * Phillip DiSarro
 
 4.3 Chair Selection

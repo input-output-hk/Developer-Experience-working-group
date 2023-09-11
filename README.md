@@ -21,7 +21,7 @@ We also use Github for discussions and the IOHK Developer Discord.
 
 Do you have a concern relating to developer experience working on Cardano? Check our [issues](https://github.com/input-output-hk/Developer-Experience-working-group/issues) page and contribute to a discussion, or file a new issue.
 
-To join the Developer Working group Discord Channel:https://discord.gg/inputoutput
+To join the [Developer Working group Discord Channel](https://discord.gg/9zPhXfdF9A)
 
 ## How do we use this github repository?
 
